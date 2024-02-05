@@ -8,7 +8,7 @@ This guide provides step-by-step instructions on how to deploy an existing React
 ## Prerequisites
 
 1. An existing ReactJS application.
-2. [DFX](https://sdk.dfinity.org/docs/download.html) installed and configured on your machine.
+2. [DFX](https://internetcomputer.org/docs/current/developer-docs/setup/install/) installed and configured on your machine.
 
 ## Step 1: Build Your ReactJS Application
 
